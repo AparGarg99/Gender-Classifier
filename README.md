@@ -6,7 +6,6 @@ Key Tools & Technologies Used - TensorFlow, Keras, scikit-learn, Flask, HTML, CS
 ---
 
 # DEMO 🎥
-![](https://github.com/AparGarg99/Gender-Classifier/blob/main/demo.gif)
 <kbd>
   <img src="https://github.com/AparGarg99/Gender-Classifier/blob/main/demo.gif">
 </kbd>
