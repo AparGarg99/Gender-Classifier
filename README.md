@@ -1,7 +1,7 @@
 # OVERVIEW 📚
 * This project uses a Bidirectional LSTM network and numerous machine learning models such as Gaussian Naive Bayes, Random Forest, and KNN to classify a person's gender (M/F) based on his/her first name. 
 * The dataset used consists of 95,025 first names and their corresponding gender.
-* Bidirectional LSTM was able to achieve an accuracy of 95% on the training dataset (80% of total) and 91% on the testing dataset (20% of total).
+* Bidirectional LSTM performed best. 95% accuracy on train data. 91% accuracy on validation data. 91% accuracy on test data.
 * Key Tools & Technologies Used - TensorFlow, Keras, scikit-learn, Flask, HTML, CSS.
 
 ---
