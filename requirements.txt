@@ -1,0 +1,7 @@
+jupyter==1.0.0
+imblearn==0.9.0
+scikit-plot==0.3.7
+tensorflow==2.8.0
+pandas==1.1.5
+seaborn==0.11.2
+Unidecode==1.3.4
