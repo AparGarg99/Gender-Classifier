@@ -27,9 +27,13 @@ cd Tutorials/TFOD
 ```
 pip install -r requirements.txt
 ```
-6. Execute  to train and save models in 'models' directory
+6. Launch Jupyter Notebook
+```
+jupyter notebook
+```
+7. Execute [1_BiLSTM_Modeling.ipynb](https://github.com/AparGarg99/Gender-Classifier/blob/main/1_BiLSTM_Modeling.ipynb) and [3_ML_Modeling.ipynb](https://github.com/AparGarg99/Gender-Classifier/blob/main/3_ML_Modeling.ipynb) notebooks to train and save models in 'models' directory
 
-7. Run flask web app
+8. Run flask web app
 ```
 python app.py
 ```
