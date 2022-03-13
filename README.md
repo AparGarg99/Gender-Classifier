@@ -4,7 +4,7 @@ This project uses a Bidirectional LSTM network and numerous machine learning mod
 ---
 
 # DEMO 🎥
-![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Miscellaneous/Dataset/demo.gif)
+![](https://github.com/AparGarg99/Gender-Classifier/blob/main/demo.gif)
 
 ---
 
