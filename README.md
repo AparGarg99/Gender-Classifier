@@ -1,7 +1,6 @@
 ## Summary
   - [Installation and Usage](#installation-and-usage)
-  - [Sample Project](#sample-project)
-  - [References](#references)
+  - [GUI](#gui)
   
 ## Installation and Usage
 1. Open Anaconda command prompt
