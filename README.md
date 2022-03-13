@@ -27,13 +27,17 @@ cd Gender-Classifier
 ```
 pip install -r requirements.txt
 ```
-6. Launch Jupyter Notebook
+6. Create models directory
+```
+mkdir models
+```
+7. Launch Jupyter Notebook
 ```
 jupyter notebook
 ```
-7. Execute [1_BiLSTM_Modeling.ipynb](https://github.com/AparGarg99/Gender-Classifier/blob/main/1_BiLSTM_Modeling.ipynb) and [3_ML_Modeling.ipynb](https://github.com/AparGarg99/Gender-Classifier/blob/main/3_ML_Modeling.ipynb) notebooks to train and save models in 'models' directory
+8. Execute [1_BiLSTM_Modeling.ipynb](https://github.com/AparGarg99/Gender-Classifier/blob/main/1_BiLSTM_Modeling.ipynb) and [3_ML_Modeling.ipynb](https://github.com/AparGarg99/Gender-Classifier/blob/main/3_ML_Modeling.ipynb) notebooks to train and save models in 'models' directory
 
-8. Run flask web app
+9. Run flask web app
 ```
 python app.py
 ```
