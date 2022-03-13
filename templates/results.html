@@ -1,0 +1,49 @@
+{% extends "bootstrap/base.html" %}
+{% block content %}
+
+<! --------------------------------------------- HEADING --------------------------------------------------------------––>
+<div class="container">
+  <div class="jumbotron" style="background-color:green!important;">
+    <h2 style="color:#fff;text-align:center;font-size:3em;margin-top: 0.1em;">Gender Classifier</h2>      
+    <p style="color:#fff;text-align:right;"><i>By Apar Garg</i></p>
+  </div>          
+</div>
+
+<! ----------------------------------------------- OUTPUT ------------------------------------------------------------––>
+<div class="panel-group">
+    <div class="panel panel-primary">
+      <div class="panel-heading" style="background-color:#FFBB33">Predicted Gender</div>
+      <div class="panel-body">
+      
+	     {% if prediction ==  0 %}
+      	<p class="card-text">Female</p>
+	     {% elif prediction == 1 %}
+		    <p class="card-text">Male</p>
+	     {% endif%}
+
+      </div>
+    </div>
+</div>
+
+<! ----------------------------------------------- ABOUT APP ------------------------------------------------------------––>
+<br><br><br><br><br><br><br>
+<div class="panel-group">
+    <div class="panel panel-primary">
+      <div class="panel-heading" style="background-color:green;text-align:center;font-size:1.5em;">About App</div>
+      <div class="panel-body">
+        <ul>
+          <li>This app takes a person's name as an input and uses BiLSTM model to output whether the name is a male's name or a female's name.</li>
+          <li>The model has learned how to make these output predictions by learning from 95,025 first names.</li>
+        </ul>
+      </div>
+    </div>
+</div>
+
+
+{% endblock %}
+
+{% block styles %}
+{{super()}}
+<link rel="stylesheet"
+      href="{{url_for('.static', filename='css/styles.css')}}">
+{% endblock %}
