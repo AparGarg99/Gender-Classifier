@@ -1,5 +1,5 @@
 # OVERVIEW 📚
-This project uses a Bidirectional LSTM network to classify a person's gender (M/F) based on his/her first name. 
+This project uses a Bidirectional LSTM network and numerous machine learning models such as Gaussian Naive Bayes, Random Forest, and KNN to classify a person's gender (M/F) based on his/her first name. The models learned how to make predictions by learning from 95,025 first names.
 
 ---
 
