@@ -27,7 +27,7 @@ cd Gender-Classifier
 ```
 pip install -r requirements.txt
 ```
-6. Create models directory
+6. Create `models` directory
 ```
 mkdir models
 ```
