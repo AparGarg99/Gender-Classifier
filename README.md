@@ -39,7 +39,7 @@ mkdir models
 ```
 jupyter notebook
 ```
-8. Execute [`1_BiLSTM_Modeling.ipynb`](https://github.com/AparGarg99/Gender-Classifier/blob/main/1_BiLSTM_Modeling.ipynb) notebook to train and save models in `models` directory
+8. Execute [`1_BiLSTM_Modeling.ipynb`](https://github.com/AparGarg99/Gender-Classifier/blob/main/1_BiLSTM_Modeling.ipynb) notebook to train and save model in `models` directory
 
 9. Run flask web app using anaconda prompt
 ```
