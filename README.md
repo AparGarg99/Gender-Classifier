@@ -1,6 +1,5 @@
 ## Summary
   - [Installation and Usage](#installation-and-usage)
-  - [Usage](#usage)
   - [Sample Project](#sample-project)
   - [References](#references)
   
