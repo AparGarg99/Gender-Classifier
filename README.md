@@ -1,15 +1,10 @@
 # OVERVIEW 📚
 This project uses a Bidirectional LSTM network to classify a person's gender (M/F) based on his/her first name. 
 
-Refer to the [Report](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Documentation/ITSS_Project_Report.pdf) for more details.
-
-
 ---
 
-# GUI 🎥
+# DEMO 🎥
 ![](https://github.com/AparGarg99/Intelligent-Online-Exam-Proctoring-System/blob/master/Miscellaneous/Dataset/demo.gif)
-
-Watch the [Video](https://youtu.be/lGGHgPYJ4ig) for more details.
 
 ---
 
