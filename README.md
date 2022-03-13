@@ -41,8 +41,8 @@ jupyter notebook
 ```
 8. Execute [`1_BiLSTM_Modeling.ipynb`](https://github.com/AparGarg99/Gender-Classifier/blob/main/1_BiLSTM_Modeling.ipynb) and [`3_ML_Modeling.ipynb`](https://github.com/AparGarg99/Gender-Classifier/blob/main/3_ML_Modeling.ipynb) notebooks to train and save models in `models` directory
 
-9. Run flask web app
+9. Run flask web app using anaconda prompt
 ```
 python app.py
 ```
-10. Open a browser and type in the URL displayed. e.g. `http://127.0.0.1:5000/`
+10. Open a browser and type in the URL displayed in anaconda prompt. e.g. `http://127.0.0.1:5000/`
