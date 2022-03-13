@@ -20,8 +20,8 @@ conda activate "gc_project"
 ```
 4. Open the project
 ```
-git clone https://github.com/AparGarg99/Tutorials.git
-cd Tutorials/TFOD
+git clone https://github.com/AparGarg99/Gender-Classifier.git
+cd Gender-Classifier
 ```
 5. Install the required dependencies
 ```
