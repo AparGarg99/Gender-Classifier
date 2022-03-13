@@ -1,10 +1,10 @@
 ## Summary
-  - [Installation](#installation)
+  - [Installation and Usage](#installation-and-usage)
   - [Usage](#usage)
   - [Sample Project](#sample-project)
   - [References](#references)
   
-## Installation
+## Installation and Usage
 1. Open Anaconda command prompt
 2. Create new anaconda environment
 ```
@@ -23,11 +23,9 @@ cd Tutorials/TFOD
 ```
 pip install -r requirements.txt
 ```
-## Usage
-1. Develop and test models - Run
+6. Execute  to train and save models in 'models' directory
 
-3. Run flask web app
+7. Run flask web app
 ```
-cd flask_app
 python app.py
 ```
