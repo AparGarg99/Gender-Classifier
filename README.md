@@ -47,3 +47,6 @@ jupyter notebook
 python app.py
 ```
 10. Open a browser and type in the URL displayed in anaconda prompt. e.g. `http://127.0.0.1:5000/`
+
+<br><br>
+***Don't forget to give a ⭐ if you like this project !!***
